@@ -304,7 +304,7 @@ header {
 */
 
 .hero {
-    background-color: linear-gradient(85deg, var(rgb(115, 172, 211)), var(rgb(241, 122, 241)));
+    background-color: radial-gradient(circle, var(rgb(115, 172, 211)), var(rgb(241, 122, 241)));
     /*
     Try replacing with:
     background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
